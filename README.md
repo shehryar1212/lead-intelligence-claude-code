@@ -102,7 +102,7 @@ Score Reason: Strong industry match with clear pain signals
 Pain Signals: manual client reporting, no automation in place
 Best Angle: Automate client reporting workflow
 Step 3/4 - Drafting personalized outreach...
-Subject: Acme's client reporting workflow
+Subject: Acme client reporting workflow
 Email Body:
 Hi there, I noticed Acme is still handling client reports manually...
 ============================================================
