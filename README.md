@@ -87,6 +87,7 @@ python main.py "Company Name Here"
 ```
 
 ## Example Output
+```bash
 ============================================================
 LEAD INTELLIGENCE AGENT
 Researching: Acme Marketing Agency
@@ -116,6 +117,7 @@ Step 4/4 - Saving to Airtable...
 Saved successfully!
 Record ID: rechZIJVHFMTgyez9
 PIPELINE COMPLETE
+```
 
 ## Airtable Schema
 
